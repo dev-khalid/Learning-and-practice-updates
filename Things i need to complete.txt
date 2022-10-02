@@ -1,0 +1,25 @@
+1.Node.js 
+2.React.js 
+3.JavaScript 
+4.TypeScript 
+5.System Design 
+6.DataBase (MongoDb & MySql) 
+7.Docker 
+8.Git and Github 
+9.Testing 
+10.Security 
+11.OOP 
+12.MicroServices 
+13.Cloud computing 
+14.Tailwind 
+15.Ant Design 
+16.Next.js 
+17.Nest.js 
+18.GraphQl
+19.Stirpe/SslCommerze 
+20.Linux 
+21.Nginx
+22.ci/cd 
+23.Networking fundamentals. 
+24.Vim ide
+25.cache memory (Redis) 
